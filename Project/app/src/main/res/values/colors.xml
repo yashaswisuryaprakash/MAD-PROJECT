@@ -1,0 +1,43 @@
+<resources>
+    <!-- Material Design Dark Theme Colors -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryVariant">#0069C0</color>
+    <color name="colorSecondary">#00BFA5</color>
+    <color name="colorSecondaryVariant">#008E76</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorError">#CF6679</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorOnError">#000000</color>
+    
+    <!-- Dark theme elevation overlays -->
+    <color name="elevationOverlay01">#1F1F1F</color>
+    <color name="elevationOverlay02">#232323</color>
+    <color name="elevationOverlay03">#252525</color>
+    <color name="elevationOverlay04">#272727</color>
+    <color name="elevationOverlay06">#2C2C2C</color>
+    <color name="elevationOverlay08">#2E2E2E</color>
+    <color name="elevationOverlay12">#333333</color>
+    <color name="elevationOverlay16">#363636</color>
+    <color name="elevationOverlay24">#383838</color>
+    
+    <!-- Text colors -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#B3FFFFFF</color>
+    <color name="textColorDisabled">#66FFFFFF</color>
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="neonBlue">#00FFFF</color>
+    <color name="neonGreen">#00FF41</color>
+    <color name="neonPurple">#D500F9</color>
+    <color name="neonOrange">#FF9000</color>
+    <color name="neonAmber">#FFCC00</color>
+    <color name="dullGray">#555555</color>
+    <color name="dullBlue">#304859</color>
+    <color name="dullPurple">#433852</color>
+    <color name="gradientStart">#000000</color>
+    <color name="gradientEnd">#162736</color>
+</resources> 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Circle background with stroke -->
+    <path
+        android:fillColor="@color/elevationOverlay06"
+        android:strokeColor="@color/colorPrimary"
+        android:strokeWidth="1.5"
+        android:pathData="M12,12m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    
+    <!-- First person silhouette -->
+    <path
+        android:fillColor="@color/colorPrimary"
+        android:pathData="M8,9m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="@color/colorPrimary"
+        android:pathData="M8,11.5c-1.5,0 -4.5,0.8 -4.5,2.5v0.5h9v-0.5c0,-1.7 -3,-2.5 -4.5,-2.5" />
+        
+    <!-- Second person silhouette -->
+    <path
+        android:fillColor="@color/colorSecondary"
+        android:pathData="M16,9m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="@color/colorSecondary"
+        android:pathData="M16,11.5c-1.5,0 -4.5,0.8 -4.5,2.5v0.5h9v-0.5c0,-1.7 -3,-2.5 -4.5,-2.5" />
+    
+    <!-- Connecting element -->
+    <path
+        android:fillColor="@color/textColorPrimary"
+        android:pathData="M12,10m-0.75,0a0.75,0.75 0,1 1,1.5 0a0.75,0.75 0,1 1,-1.5 0" />
+</vector> 
